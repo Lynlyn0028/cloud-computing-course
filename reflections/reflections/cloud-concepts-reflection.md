@@ -1,0 +1,8 @@
+# Cloud Concepts Reflection
+
+We use cloud services every day for school, personal communication and businesses. The three cloud applications I use most are Google Drive, Canva, and Facebook Messenger. Google Drive helps me store and access my files anywhere. Canva lets me create presentations and designs for school, while Messenger helps me communicate with classmates, friends, and family. As long as there’s internet we can/I can use this different cloud services. These applications are examples of Software as a Service or in short term SaaS, because I use them through the internet without installing or managing the software. They also use the Public Cloud deployment model because they are available online to everyone with an account.
+
+Git and GitHub are important in cloud projects because they help me/us track changes and organize our files. Version control provides us users to save our work and return to previous versions if mistakes happen. GitHub also makes collaboration easier by allowing team members in a companies or offices to work on the same project, share updates, and review changes without overwriting each other's work.
+
+This activity helped me comprehend that cloud computing is already part of my daily life as a student and soon to my future job. The applications I use for storing files, creating school projects, and communicating with others all rely on cloud technology. Broadening my knowledge about cloud service models, deployment models, and version control has given me a better understanding of how these technologies work and why they are important in modern computing these days.
+
