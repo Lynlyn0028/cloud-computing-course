@@ -11,4 +11,10 @@
 
 #Questions
 1. Which cloud provider offers the broadest range of services?
-
+  In this year 2026 the broadest cloud service provider is google cloud and AWS because this provider offers wide range services including compute, storage, networking and more various business needs.
+2. Which provider best integrates with Microsoft technologies?
+   The provider that integrates with Microsoft Technologies is Microsoft Azure because it is work closely with products like windows server, microsoft 365, and sql server.
+3. Which provider is strongest in Artificial Intelligence and Kubernetes?
+   The provider that is strongest in Artificial Intelligence and Kubernetes is Google Cloud because it provides AI and machine learning services together with Google Kubernetes Engine (GKE) for handling containerized applications.
+4.	Which cloud platform would you personally choose and why?
+   Well, the cloud platform that i personally choose is Microsoft Azure or Google Cloud because it provides strong combination with Microsoft Technologies like Windows server, Microsoft 365, and other Microsoft products that i regularly use as a student.
