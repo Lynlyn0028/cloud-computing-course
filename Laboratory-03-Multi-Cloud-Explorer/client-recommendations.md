@@ -2,8 +2,7 @@
 
 ## Client A – Startup Company
 ### Recommended Platform: AWS
-### Explanation: AWS is a good choice with the startup companies because it gives expandable cloud services 
-that can support application as the number increases. The company can start with smaller resources to control its costs and increase resources as the application grows. AWS also gives many services for mobile applications, databases, storage, and computing.
+### Explanation: AWS is a good choice with the startup companies because it gives expandable cloud services that can support application as the number increases. The company can start with smaller resources to control its costs and increase resources as the application grows. AWS also gives many services for mobile applications, databases, storage, and computing.
 ### Three Services: Amazon EC2, Amazon S3, Amazon RDS
 
 ## Client B – University
