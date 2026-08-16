@@ -6,8 +6,11 @@
 The Linux server was investigated using the KillerCoda Playground:
 
 **Operating System:** Ubuntu 24.04.4 LTS
+
 **CPU Information:** 1
+
 **Memory:** 1.9GB RAM
+
 **Disk Space:** 19GB
 
 ### Cloud Migration
