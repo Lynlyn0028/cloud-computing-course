@@ -29,7 +29,6 @@ Based on https://www.velosio.com/blog/top-10-microsoft-azure-use-cases-and-featu
 -Azure AI
 
 Screenshot
-Screenshot of the official AWS website or AWS Management Console:
 
 ![Microsoft Azure Official Homepage](screenshot/azure-homepage.png)
 
