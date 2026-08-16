@@ -18,4 +18,4 @@
 ## Client D – Global E-Commerce Company
 ### Recommended Platform: AWS
 ### Explanation: Why AWS? because it provides automatic scaling and load balancing capabilities that can handle increases in customer traffic during busy periods. These features can help the company maintain reliable performance as its number of customers and transactions grows. Moreover, the company can deploy also  its application across different regions to serve customers around the world.
-### Three Services: Three Services: Amazon EC2, Elastic Load Balancing, Amazon S3
+### Three Services: Amazon EC2, Elastic Load Balancing, Amazon S3
