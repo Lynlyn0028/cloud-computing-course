@@ -19,3 +19,17 @@
 ### Recommended Platform: AWS
 ### Explanation: Why AWS? because it provides automatic scaling and load balancing capabilities that can handle increases in customer traffic during busy periods. These features can help the company maintain reliable performance as its number of customers and transactions grows. Moreover, the company can deploy also  its application across different regions to serve customers around the world.
 ### Three Services: Amazon EC2, Elastic Load Balancing, Amazon S3
+
+# Checkpoint 6 – Multi-Cloud Decision Matrix
+## Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | AWS | it provides scalable services that allow startups to begin with smaller resources and expand as their applications grow. |
+| Enterprise Organization | AWS | AWS gives a broad range of services, strong security features, and scalable infrastructure suitable for large organizations. |
+| Microsoft Environment | Microsoft Azure | Azure provides strong combination with Windows Server, Microsoft 365, and Microsoft Entra ID. |
+| AI / Machine Learning | Google Cloud | Google Cloud provides strong AI and machine learning services, along with high-performance computing resources. |
+| Kubernetes Deployment | Google Cloud | Google Kubernetes Engine (GKE) provides a managed Kubernetes environment for deploying and scaling containerized applications. |
+| Global Web Application | AWS | AWS provides global infrastructure, load balancing, content delivery, and scalable services for applications serving users worldwide. |
+
+
