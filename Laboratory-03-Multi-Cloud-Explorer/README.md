@@ -24,6 +24,7 @@ If this Linux server were migrated to the cloud:
 
 ### After collecting the information, answer:
 If this Linux server were migrated to the cloud, which AWS, Azure, and GCP services could host it?
+
 -If this Linux server were migrated to the cloud, it could be hosted using virtual machine services from AWS, Microsoft Azure, and Google Cloud. AWS provides Amazon EC2, Azure provides Azure Virtual Machines, and Google Cloud provides Compute Engine. These services allow organizations to run and manage Linux-based workloads in the cloud.
 
 ### Terminal Evidence
