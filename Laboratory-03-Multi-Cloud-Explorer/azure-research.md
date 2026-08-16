@@ -19,8 +19,8 @@ High Availability- Microsoft Azure has more than 200 data centers on a global sc
 Security-It offers multi-layered, built-in security controls across physical data centers, operations, and infrastructure to help protect hybrid cloud and multi-cloud systems. 
 Disaster Recovery and Back Up-Azure cloud platform comes with end-to-end backup and disaster recovery services to ensure no business-critical data is lost in case a disaster or system crash/failure occurs. 
 
-#### Typical Enterprise Use Cases:
-Based on https://www.velosio.com/blog/top-10-microsoft-azure-use-cases-and-features/
+### Typical Enterprise Use Cases:
+### Based on https://www.velosio.com/blog/top-10-microsoft-azure-use-cases-and-features/
 -Azure VMware Solution (AVS)
 -Azure Backup and Disaster Recovery (BDR)
 -Azure Virtual Servers
