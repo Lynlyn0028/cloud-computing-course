@@ -1,7 +1,7 @@
 # Checkpoint 4 – Cloud Platform Recommendation Challenge
 
 ## Client A – Startup Company
-###Recommended Platform: AWS
+### Recommended Platform: AWS
 ### Explanation: AWS is a good choice with the startup companies because it gives expandable cloud services 
 that can support application as the number increases. The company can start with smaller resources to control its costs and increase resources as the application grows. AWS also gives many services for mobile applications, databases, storage, and computing.
 ### Three Services: Amazon EC2, Amazon S3, Amazon RDS
@@ -9,7 +9,7 @@ that can support application as the number increases. The company can start with
 ## Client B – University
 ### Recommended Platform: Microsoft Azure
 ### Explanation: Microsoft Azure is good choice because the university already uses Windows Server, Microsoft 365, and Active Directory. Microsoft Azure provides strong combination with Microsoft technologies, making it easier to connect existing systems with cloud services. Azure can also provide identity management, virtual machines, databases, and other services that can be needed by the university. 
-###Three Services: Azure Virtual Machines, Microsoft Entra ID, Azure SQL Database
+### Three Services: Azure Virtual Machines, Microsoft Entra ID, Azure SQL Database
 
 ## Client C – AI Research Company
 ### Recommended Platform: Google Cloud
