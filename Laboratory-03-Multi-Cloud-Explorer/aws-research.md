@@ -29,7 +29,7 @@ Typical Enterprise Use Cases
 Screenshot
 Screenshot of the official AWS website or AWS Management Console:
 
-![AWS Official Website Screenshot](screenshots/aws-screenshot.png.png)
-![AWS Official Website Screenshot](screenshots/aws-screenshot2.png.png)
+![AWS Official Website Screenshot](screenshot/aws-screenshot.png.png)
+![AWS Official Website Screenshot](screenshot/aws-screenshot2.png.png)
 
-Sources:https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html
+Sources: https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html
